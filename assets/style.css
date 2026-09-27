@@ -301,6 +301,12 @@
   .page-hero .eyebrow{margin-bottom:14px}
   .page-hero h1{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(2.3rem,4.6vw,3.4rem);color:var(--forest);line-height:1.04;letter-spacing:-.01em}
   .page-hero p.sub{color:var(--muted);font-size:1.12rem;max-width:44rem;margin-top:16px}
+  .legal-pad{padding-top:28px}
+  .legal-article{max-width:790px}
+  .legal-article>section{padding:0 0 26px;margin:0 0 28px;border-bottom:1px solid var(--line)}
+  .legal-article>section:last-child{border-bottom:0;margin-bottom:0}
+  .legal-article .identity{background:#fff;border-left:3px solid var(--acc);border-radius:0 12px 12px 0;padding:18px 20px;color:var(--muted);margin:12px 0 18px}
+  .legal-article .identity strong{color:var(--forest)}
   .contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:stretch}
   .map-frame{border-radius:24px;overflow:hidden;border:1px solid var(--line);box-shadow:var(--shadow-soft);min-height:380px;background:var(--sage-soft)}
   .map-frame iframe{width:100%;height:100%;min-height:380px;border:0;display:block}
