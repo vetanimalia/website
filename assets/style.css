@@ -136,7 +136,7 @@
   .intro .wrap{display:grid;grid-template-columns:.9fr 1.1fr;gap:64px;align-items:center}
   .intro-photos{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:14px;height:430px}
   .intro-photos div{border-radius:20px;background:var(--sage-soft) center 30%/cover no-repeat;box-shadow:var(--shadow-soft)}
-  .intro-photos .big{grid-row:span 2;background-image:url('./images/salle-attente-1.png')}
+  .intro-photos .big{grid-row:span 2;background-image:url('../images/chat-echo.jpg')}
   .intro-photos .s1{background-image:url('../images/diapo-accueil-bloc-chirurgie.jpg')}
   .intro-photos .s2{background-image:url('../images/diapo-accueil-laser-bis.jpg')}
   @media(max-width:980px){.intro .wrap{grid-template-columns:1fr;gap:40px}}
