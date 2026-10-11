@@ -27,6 +27,9 @@
     -webkit-font-smoothing:antialiased;
     overflow-x:hidden;
   }
+  p{text-align:justify;hyphens:auto}
+  .svc p,.vet p,.tip p,footer p,.indep p,.svc-cta p,.conseil-card p{ text-align:left;hyphens:manual }
+  .conseil-cta p{text-align:center;hyphens:manual}
   h1,h2,h3,.display{font-family:'Fraunces',serif;font-weight:500;line-height:1.05;letter-spacing:-.01em}
   a{color:inherit;text-decoration:none}
   .wrap{max-width:1180px;margin:0 auto;padding:0 28px}
@@ -216,7 +219,7 @@
   .urgence .eyebrow{color:rgba(255,255,255,.85)}
   .urgence .eyebrow::before{background:rgba(255,255,255,.85)}
   .urgence h2{font-size:2rem;color:#fff;margin:10px 0 6px}
-  .urgence p{opacity:.92;max-width:34rem;text-align:justify;hyphens:auto}
+  .urgence p{opacity:.92;max-width:34rem}
   .urgence .phone{
     position:relative;z-index:2;background:#fff;color:#b3402c;border-radius:18px;padding:22px 30px;text-align:center;flex:none;
   }
