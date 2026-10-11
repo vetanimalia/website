@@ -33,8 +33,19 @@
   <p class="sub">Radiographie numérique et échographie pour un diagnostic précis, dans le respect de la réglementation en vigueur.</p>
 </div></section>
 <section class="pad" style="padding-top:30px"><div class="wrap reveal">
-  <img class="svc-hero-img" src="./images/services-imagerie-1.jpg" alt="Service d'imagerie">
-  <div class="svc-article"><h2>La radiographie numérique</h2><p>La radiographie permet de visualiser le cœur, les poumons, les intestins ou les os. Certains clichés nécessitent une tranquillisation de courte durée car l'animal ne doit pas bouger ; il est alors souvent hospitalisé quelques heures.</p><ul><li>Membres : recherche de fractures, évaluation de l'arthrose ou de la dysplasie</li><li>Abdomen : corps étranger, organes (avec produit de contraste si besoin)</li><li>Thorax : forme du cœur, poumons, recherche de métastases</li><li>Colonne vertébrale : lésions des vertèbres, myélographie en cas de compression médullaire</li></ul><p>Notre salle est équipée d'un appareil de radiologie numérique et des protections réglementaires, contrôlé régulièrement, avec une personne radiocompétente diplômée présente dans la structure.</p><h2>L'échographe</h2><p>Totalement indolore, l'échographie visualise les organes internes grâce aux ultrasons. Nos vétérinaires suivent des formations régulières et font appel, pour certains examens spécifiques, à des confrères spécialisés qui se déplacent à la clinique.</p><ul><li>Appareil génital : diagnostic de gestation (dès 21 jours chez la chienne), prostate, kystes, métrite</li><li>Cœur : échocardiographie et suivi de l'insuffisance cardiaque</li><li>Abdomen : cristaux de la vessie, reins, rate, corps étranger</li><li>Biopsies et ponctions échoguidées, cystocentèse pour des urines stériles</li></ul></div>
+  <div class="svc-article">
+    <h2>La radiographie numérique</h2>
+    <img class="svc-hero-img" src="./images/salle-radio.jpg" alt="Salle radio">
+    <p>La radiographie permet de visualiser le cœur, les poumons, les intestins ou les os. Certains clichés nécessitent une tranquillisation de courte durée car l'animal ne doit pas bouger ; il est alors souvent hospitalisé quelques heures.</p><ul><li>Membres : recherche de fractures, évaluation de l'arthrose ou de la dysplasie</li><li>Abdomen : corps étranger, organes (avec produit de contraste si besoin)</li><li>Thorax : forme du cœur, poumons, recherche de métastases</li><li>Colonne vertébrale : lésions des vertèbres, myélographie en cas de compression médullaire</li></ul><p>Notre salle est équipée d'un appareil de radiologie numérique et des protections réglementaires, contrôlé régulièrement, avec une personne radiocompétente diplômée présente dans la structure.</p>
+    <h2>L'échographe</h2>
+    <div class="svc-hero-img imagerie-carousel">
+      <div class="cwrap" data-carousel data-interval="3000">
+        <div class="cslide on" role="img" aria-label="Échographe dans la clinique" style="background-image:url('./images/salle-echo.jpg')"></div>
+        <div class="cslide" role="img" aria-label="Examen échographique d'un chat" style="background-image:url('./images/salle-echo-2.jpg')"></div>
+      </div>
+      <div class="cdots"><i class="on"></i><i></i></div>
+    </div>
+    <p>Totalement indolore, l'échographie visualise les organes internes grâce aux ultrasons. Nos vétérinaires suivent des formations régulières et font appel, pour certains examens spécifiques, à des confrères spécialisés qui se déplacent à la clinique.</p><ul><li>Appareil génital : diagnostic de gestation (dès 21 jours chez la chienne), prostate, kystes, métrite</li><li>Cœur : échocardiographie et suivi de l'insuffisance cardiaque</li><li>Abdomen : cristaux de la vessie, reins, rate, corps étranger</li><li>Biopsies et ponctions échoguidées, cystocentèse pour des urines stériles</li></ul></div>
   <div class="svc-cta">
     <div><h3>Besoin d'un rendez-vous&nbsp;?</h3><p>Consultations sur rendez-vous · Urgences au 02 31 80 99 00</p></div>
     <a href="https://eudist.vetstoria.com/booking/5bf4348894b4a/eyJvX2JyX2lkIjoxOTV9/" target="_blank" rel="noopener" class="btn btn-light">Prendre RDV en ligne</a>
@@ -92,6 +103,17 @@
     </div>
   </div>
 </footer>
+<script>
+  document.querySelectorAll('[data-carousel]').forEach(car=>{
+    const slides=[...car.querySelectorAll('.cslide')];
+    const dots=car.parentElement.querySelector('.cdots');
+    const dotEls=dots?[...dots.querySelectorAll('i')]:[];
+    let i=0;const n=slides.length;const interval=+car.dataset.interval||3000;
+    function go(k){slides[i].classList.remove('on');dotEls[i]&&dotEls[i].classList.remove('on');i=(k+n)%n;slides[i].classList.add('on');dotEls[i]&&dotEls[i].classList.add('on');}
+    dotEls.forEach((d,k)=>d.addEventListener('click',()=>go(k)));
+    setInterval(()=>go(i+1),interval);
+  });
+</script>
 <script>
   const io=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')})},{threshold:.12});
   document.querySelectorAll('.reveal, .soft-reveal').forEach(el=>io.observe(el));
