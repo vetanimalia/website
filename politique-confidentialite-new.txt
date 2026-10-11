@@ -1,0 +1,120 @@
+La présente politique de confidentialité a pour objectif d'informer les utilisateurs du site www.vetanimalia.com sur la manière dont la SELARL ANIMALIA collecte, utilise et protège les données à caractère personnel susceptibles d'être communiquées lors de la consultation du site ou de l'utilisation de ses services.
+Nous attachons une importance particulière au respect de la vie privée et à la protection des données personnelles de nos clients et visiteurs.
+1. Responsable du traitement
+Le responsable du traitement des données collectées dans le cadre du présent site est :
+SELARL ANIMALIA
+Clinique Vétérinaire VetAnimalia
+1 rue des Cerisiers
+14210 Évrecy
+France
+Pour toute question relative à la protection de vos données personnelles ou pour exercer vos droits, vous pouvez nous contacter à l'adresse :
+administratif@vetanimalia.fr
+Cette adresse est destinée aux demandes administratives, aux questions relatives aux données personnelles et au fonctionnement de nos services.
+Elle ne constitue pas un service de consultation vétérinaire à distance et ne doit pas être utilisée pour signaler une urgence concernant un animal.
+2. Données personnelles susceptibles d'être collectées
+Le site VetAnimalia est principalement un site d'information et de présentation de l'activité de la clinique.
+Selon les services utilisés, différentes catégories de données peuvent être traitées.
+Données communiquées directement par l'utilisateur
+Lorsque vous nous contactez par courrier électronique, nous pouvons être amenés à traiter notamment :
+    • votre nom et prénom ;
+    • votre adresse électronique ;
+    • votre numéro de téléphone lorsque vous nous le communiquez ;
+    • le contenu de votre message ;
+    • toute information que vous choisissez volontairement de nous transmettre.
+Nous vous invitons à ne pas communiquer par courrier électronique d'informations médicales concernant votre animal qui ne seraient pas nécessaires au traitement de votre demande.
+Données liées à la prise de rendez-vous
+La prise de rendez-vous en ligne proposée depuis le site est réalisée au moyen du service Vetstoria.
+Lorsque vous utilisez ce service, les informations que vous renseignez sont susceptibles d'être collectées et traitées afin de permettre la prise, la gestion et le suivi de votre rendez-vous.
+Les données demandées peuvent notamment comprendre des informations permettant de vous identifier ou de vous contacter ainsi que des informations nécessaires à la gestion du rendez-vous et à l'identification de votre animal.
+Le traitement des données effectué dans le cadre du service de prise de rendez-vous est également soumis aux conditions et à la politique de confidentialité applicables au service Vetstoria.
+Nous vous invitons à prendre connaissance de ces informations lors de l'utilisation du service.
+3. Finalités des traitements
+Les données personnelles susceptibles d'être collectées sont utilisées uniquement pour des finalités déterminées et légitimes, notamment :
+    • répondre aux demandes qui nous sont adressées ;
+    • assurer la gestion administrative des demandes des clients ;
+    • permettre la prise et la gestion des rendez-vous ;
+    • assurer le fonctionnement et la sécurité du site internet ;
+    • répondre aux demandes d'exercice des droits prévus par la réglementation relative à la protection des données ;
+    • respecter nos obligations légales et réglementaires.
+Les données ne sont pas utilisées à des fins de prospection commerciale non sollicitée.
+4. Base juridique des traitements
+Selon la situation, les traitements de données peuvent être fondés notamment sur :
+    • l'exécution d'un contrat ou de mesures précontractuelles, notamment pour la gestion d'un rendez-vous ;
+    • le respect d'une obligation légale ;
+    • notre intérêt légitime, notamment pour assurer la sécurité et le bon fonctionnement du site ;
+    • votre consentement lorsque celui-ci est légalement nécessaire.
+Lorsque votre consentement est requis, celui-ci peut être retiré à tout moment dans les conditions prévues par la réglementation.
+5. Données relatives aux animaux
+Le site internet n'a pas vocation à constituer le dossier médical de votre animal.
+Les informations médicales et les données relatives à la santé de votre animal sont principalement traitées dans le cadre de sa prise en charge vétérinaire et conservées dans les systèmes utilisés par la clinique à cette fin.
+Nous vous recommandons de ne pas transmettre par l'intermédiaire du site ou par courrier électronique des informations médicales qui ne sont pas nécessaires à votre demande.
+6. Prise de rendez-vous en ligne
+Le bouton « Prendre rendez-vous » présent sur le site permet d'accéder à une plateforme de prise de rendez-vous fournie par Vetstoria.
+Lorsque vous quittez le site VetAnimalia pour utiliser ce service, vous êtes susceptible d'être soumis aux conditions d'utilisation et à la politique de confidentialité de ce prestataire.
+Les données nécessaires à la prise de rendez-vous sont alors traitées afin de permettre notamment :
+    • la réservation d'un créneau ;
+    • la gestion du rendez-vous ;
+    • l'envoi des informations nécessaires au rendez-vous ;
+    • la gestion administrative associée à celui-ci.
+Les modalités précises de traitement des données par Vetstoria sont décrites dans sa propre politique de confidentialité.
+7. Services externes et contenus intégrés
+Le site peut proposer des liens ou des contenus provenant de services tiers, notamment des services de cartographie permettant de localiser la clinique.
+Lorsque vous cliquez sur un lien permettant d'accéder à un service externe, vous quittez le site VetAnimalia et les traitements effectués par ce service sont alors susceptibles d'être régis par sa propre politique de confidentialité.
+Nous vous invitons à consulter les informations relatives à la protection des données proposées par ces services tiers.
+8. Cookies et autres traceurs
+Le site VetAnimalia peut utiliser des cookies ou des technologies similaires nécessaires à son fonctionnement, à sa sécurité et à l'affichage correct de certaines fonctionnalités.
+Nous cherchons à limiter l'utilisation de cookies et de traceurs au strict nécessaire.
+Le site n'a pas vocation à utiliser des cookies à des fins de publicité comportementale ou de profilage commercial.
+Lorsque certains cookies ou traceurs nécessitent le consentement préalable de l'utilisateur, celui-ci est recueilli conformément à la réglementation applicable.
+Les paramètres de votre navigateur peuvent également vous permettre de contrôler ou de supprimer certains cookies.
+9. Données techniques et sécurité du site
+Lors de votre navigation, certaines informations techniques peuvent être automatiquement traitées afin d'assurer le fonctionnement, la sécurité et la protection du site contre les utilisations malveillantes.
+Ces informations peuvent notamment comprendre certaines données techniques relatives à votre connexion et à votre appareil, telles qu'une adresse IP, la date et l'heure de connexion ou des informations relatives au navigateur utilisé.
+Le site étant hébergé au moyen de l'infrastructure GitHub Pages, certaines données techniques peuvent être traitées par GitHub dans le cadre du fonctionnement et de la sécurité de son service.
+Nous ne cherchons pas à utiliser ces données pour identifier personnellement les visiteurs à des fins commerciales.
+10. Destinataires des données
+Les données personnelles sont accessibles uniquement aux personnes qui en ont besoin dans le cadre de leurs fonctions ou des finalités décrites dans la présente politique.
+Selon le traitement concerné, les données peuvent notamment être communiquées :
+    • aux membres habilités de la SELARL ANIMALIA ;
+    • aux prestataires techniques intervenant pour le fonctionnement du site ;
+    • au prestataire de prise de rendez-vous en ligne ;
+    • aux prestataires nécessaires au fonctionnement des services utilisés sur le site ;
+    • aux autorités ou organismes légalement habilités lorsque la loi l'impose.
+Nous ne vendons pas vos données personnelles à des tiers.
+11. Durée de conservation
+Nous conservons les données personnelles uniquement pendant la durée nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées, ou pendant les durées imposées par les obligations légales applicables.
+Les messages adressés à administratif@vetanimalia.fr sont conservés pendant la durée nécessaire au traitement de la demande et, lorsque cela est nécessaire, pendant la durée permettant d'assurer le suivi administratif de celle-ci.
+Les données relatives aux rendez-vous et à la prise en charge vétérinaire peuvent être conservées pendant les durées applicables aux dossiers clients et aux dossiers médicaux vétérinaires.
+Certaines données techniques peuvent être conservées pendant une durée limitée pour des raisons de sécurité et de fonctionnement des services.
+12. Vos droits
+Conformément à la réglementation applicable en matière de protection des données personnelles, vous disposez, selon les circonstances et les conditions prévues par la réglementation, des droits suivants :
+    • droit d'accès à vos données personnelles ;
+    • droit de rectification des données inexactes ou incomplètes ;
+    • droit à l'effacement de vos données lorsque les conditions prévues par la réglementation sont réunies ;
+    • droit à la limitation du traitement dans certaines situations ;
+    • droit d'opposition à certains traitements ;
+    • droit à la portabilité de certaines données lorsque ce droit est applicable ;
+    • droit de retirer votre consentement, lorsque le traitement repose sur celui-ci.
+Pour exercer vos droits, vous pouvez nous contacter à :
+administratif@vetanimalia.fr
+Afin de protéger les données personnelles de nos clients, nous pouvons être amenés à vérifier l'identité du demandeur lorsque cela est nécessaire.
+13. Réclamation auprès de la CNIL
+Si, après nous avoir contactés, vous estimez que vos droits relatifs à la protection de vos données personnelles ne sont pas respectés, vous pouvez introduire une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL).
+CNIL
+3 Place de Fontenoy
+TSA 80715
+75334 Paris Cedex 07
+France
+Vous pouvez également consulter le site de la CNIL pour connaître les modalités de réclamation.
+14. Sécurité des données
+Nous mettons en œuvre des mesures techniques et organisationnelles appropriées afin de protéger les données personnelles contre les accès non autorisés, la perte, l'altération ou la divulgation.
+L'accès aux données est limité aux personnes qui en ont besoin dans le cadre de leurs missions.
+Toutefois, aucun système informatique ou aucune transmission de données sur Internet ne peut être garanti comme étant totalement sécurisé.
+15. Liens vers des sites tiers
+Le site VetAnimalia peut contenir des liens vers des sites internet ou services qui ne sont pas exploités par la SELARL ANIMALIA.
+Nous ne sommes pas responsables du contenu ou des pratiques de protection des données de ces sites tiers.
+Nous vous invitons à consulter leurs propres politiques de confidentialité lorsque vous les utilisez.
+16. Mise à jour de la présente politique
+La présente politique de confidentialité peut être modifiée afin de tenir compte des évolutions du site, des services proposés, de la réglementation ou de nos pratiques en matière de protection des données.
+La version applicable est celle publiée sur cette page à la date de sa consultation.
+Dernière mise à jour : octobre 2026.
