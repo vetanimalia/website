@@ -216,7 +216,7 @@
   .urgence .eyebrow{color:rgba(255,255,255,.85)}
   .urgence .eyebrow::before{background:rgba(255,255,255,.85)}
   .urgence h2{font-size:2rem;color:#fff;margin:10px 0 6px}
-  .urgence p{opacity:.92;max-width:34rem}
+  .urgence p{opacity:.92;max-width:34rem;text-align:justify;hyphens:auto}
   .urgence .phone{
     position:relative;z-index:2;background:#fff;color:#b3402c;border-radius:18px;padding:22px 30px;text-align:center;flex:none;
   }
